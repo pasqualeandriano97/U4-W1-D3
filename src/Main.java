@@ -24,7 +24,7 @@ public class Main {
         System.out.println("Il perimetro del secondo rettangolo è: " + r1.perimetroRettangolo(r1.getBase(), r1.getAltezza()));
         System.out.println("La somma dei perimetri dei due rettangoli è: "+(r.perimetroRettangolo(r.getBase(), r.getAltezza())+r1.perimetroRettangolo(r1.getBase(), r1.getAltezza())));
         System.out.println("La somma delle aree dei due rettangoli è: "+(r.areaRettangolo(r.getBase(), r.getAltezza())+r1.areaRettangolo(r1.getBase(), r1.getAltezza())));
-    }
+    };
 
 
 }
